@@ -1,6 +1,6 @@
-# Stil: Scrapbook
+# Stil: Fristil
 
-**Kommando:** `redigera i Scrapbook-stil`, eller bara `Scrapbook`
+**Kommando:** `redigera i Fristil`, eller bara `Fristil`
 
 Det här är ett kortformat för TikTok och Reels där en person pratar rakt in i kameran. Claude redigerar hela råfilmen på egen hand: klipper bort omtagningar och pauser, lägger på undertexter ord för ord och klistrar in grafik som ser handgjord ut. Det ska kännas som en anteckningsbok eller ett skrivbord med papperslappar, tejp, polaroider, klotter, stämplar och ett kvitto.
 
